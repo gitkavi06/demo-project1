@@ -1,5 +1,5 @@
 # demo-project1
-Git Demo
+GitHub Demo
 
 
 
